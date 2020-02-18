@@ -17,8 +17,6 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="coffeshop"
         android:icon="@mipmap/cclogo">
-        <!--<meta-data android:name="com.google.android.geo.API_KEY"-->
-            <!--android:value="AIzaSyBMplZgmKR7RXamui_FI19mYAUABIgrXHQ"/>-->
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
